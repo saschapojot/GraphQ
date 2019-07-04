@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgraphObj.a  CMakeFiles/graphObj.dir/edgeContainer.cpp.o CMakeFiles/graphObj.dir/graphQ.cpp.o CMakeFiles/graphObj.dir/vertexContainer.cpp.o
+/usr/bin/ranlib libgraphObj.a

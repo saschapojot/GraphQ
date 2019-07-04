@@ -1,0 +1,1 @@
+/usr/bin/gcc  -O3 -DNDEBUG -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/graphQ.dir/main.cpp.o  -o graphQ src/libgraphObj.a 
